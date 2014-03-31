@@ -1,0 +1,12 @@
+{application, edfs,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { edfs_app, []}},
+  {env, []}
+ ]}.

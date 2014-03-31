@@ -1,0 +1,17 @@
+*.beam
+.eunit
+log/
+doc/
+deps/*
+ebin
+data
+_rel/
+*~
+dev/*
+erl_crash.dump
+.dialyzer_plt
+.dialyzer.base_plt
+relx
+rebar
+NOTES
+TODO
